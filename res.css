@@ -1,0 +1,263 @@
+
+.maindev{
+  background-color: aliceblue;
+  text-align: center;
+  background-color: white;
+  opacity: 0.6;
+  width: 500px;
+  height:150px;
+  margin-left: 470px;
+  margin-top:60px;
+  clip-path: polygon(
+    0% 0%, 100% 0%, 100% 90%, 95% 95%, 90% 90%, 
+    85% 95%, 80% 90%, 75% 95%, 70% 90%, 65% 95%, 
+    60% 90%, 55% 95%, 50% 90%, 45% 95%, 40% 90%, 
+    35% 95%, 30% 90%, 25% 95%, 20% 90%, 15% 95%, 
+    10% 90%, 5% 95%, 0% 90%
+  );
+ border-top-right-radius: 20px;
+ border-top-left-radius: 20px;
+ padding-left: 0px;
+}
+
+.resu{
+font-size: 50;
+  text-decoration:underline;
+}
+.resu:hover{
+  color:red;
+  transform: scale(1.25); 
+}
+.profile{
+  background-color: white;
+  opacity: 0.6;
+  width: 880px;
+  height:200px;
+  margin-left: 300px;
+  margin-top:60px;
+  clip-path: polygon(
+    0% 0%, 100% 0%, 100% 90%, 95% 95%, 90% 90%, 
+    85% 95%, 80% 90%, 75% 95%, 70% 90%, 65% 95%, 
+    60% 90%, 55% 95%, 50% 90%, 45% 95%, 40% 90%, 
+    35% 95%, 30% 90%, 25% 95%, 20% 90%, 15% 95%, 
+    10% 90%, 5% 95%, 0% 90%
+  );
+ border-top-right-radius: 20px;
+ border-top-left-radius: 20px;
+ padding-left: 0px;
+}
+.prof{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  font-weight: bold;
+  font-size: 36px;
+  color: brown;
+  margin: 0;
+  
+}
+.profi{
+  font-size:18px;
+  padding:9px;
+  color:rgb(17, 17, 17);
+  
+}
+.screw1{
+  height:40px;
+}
+.screw2{
+  height:40px;
+}
+.skill{
+  background-color: white;
+  opacity: 0.6;
+  width: 880px;
+  height:230px;
+  margin-left: 300px;
+  margin-top:60px;
+  clip-path: polygon(
+    0% 0%, 100% 0%, 100% 90%, 95% 95%, 90% 90%, 
+    85% 95%, 80% 90%, 75% 95%, 70% 90%, 65% 95%, 
+    60% 90%, 55% 95%, 50% 90%, 45% 95%, 40% 90%, 
+    35% 95%, 30% 90%, 25% 95%, 20% 90%, 15% 95%, 
+    10% 90%, 5% 95%, 0% 90%
+  );
+ border-top-right-radius: 20px;
+ border-top-left-radius: 20px;
+ padding-left: 0px;
+}
+.project{
+  background-color: white;
+  opacity: 0.6;
+  width: 880px;
+  height:150px;
+  margin-left: 300px;
+  margin-top:60px;
+  clip-path: polygon(
+    0% 0%, 100% 0%, 100% 90%, 95% 95%, 90% 90%, 
+    85% 95%, 80% 90%, 75% 95%, 70% 90%, 65% 95%, 
+    60% 90%, 55% 95%, 50% 90%, 45% 95%, 40% 90%, 
+    35% 95%, 30% 90%, 25% 95%, 20% 90%, 15% 95%, 
+    10% 90%, 5% 95%, 0% 90%
+  );
+ border-top-right-radius: 20px;
+ border-top-left-radius: 20px;
+ padding-left: 0px;
+}
+.certifi{
+  background-color: white;
+  opacity: 0.6;
+  width: 880px;
+  height:200px;
+  margin-left: 300px;
+  margin-top:60px;
+  clip-path: polygon(
+    0% 0%, 100% 0%, 100% 90%, 95% 95%, 90% 90%, 
+    85% 95%, 80% 90%, 75% 95%, 70% 90%, 65% 95%, 
+    60% 90%, 55% 95%, 50% 90%, 45% 95%, 40% 90%, 
+    35% 95%, 30% 90%, 25% 95%, 20% 90%, 15% 95%, 
+    10% 90%, 5% 95%, 0% 90%
+  );
+ border-top-right-radius: 20px;
+ border-top-left-radius: 20px;
+ padding-left: 0px;
+}
+.edu{
+  background-color: white;
+  opacity: 0.6;
+  width: 880px;
+  height:450px;
+  margin-left: 300px;
+  margin-top:60px;
+  clip-path: polygon(
+    0% 0%, 100% 0%, 100% 90%, 95% 95%, 90% 90%, 
+    85% 95%, 80% 90%, 75% 95%, 70% 90%, 65% 95%, 
+    60% 90%, 55% 95%, 50% 90%, 45% 95%, 40% 90%, 
+    35% 95%, 30% 90%, 25% 95%, 20% 90%, 15% 95%, 
+    10% 90%, 5% 95%, 0% 90%
+  );
+ border-top-right-radius: 20px;
+ border-top-left-radius: 20px;
+ padding-left: 0px;
+}
+.ace{
+  background-color: white;
+  opacity: 0.6;
+  width: 880px;
+  height:250px;
+  margin-left: 300px;
+  margin-top:60px;
+  clip-path: polygon(
+    0% 0%, 100% 0%, 100% 90%, 95% 95%, 90% 90%, 
+    85% 95%, 80% 90%, 75% 95%, 70% 90%, 65% 95%, 
+    60% 90%, 55% 95%, 50% 90%, 45% 95%, 40% 90%, 
+    35% 95%, 30% 90%, 25% 95%, 20% 90%, 15% 95%, 
+    10% 90%, 5% 95%, 0% 90%
+  );
+ border-top-right-radius: 20px;
+ border-top-left-radius: 20px;
+ padding-left: 0px;
+}
+.lan{
+  background-color: white;
+  opacity: 0.6;
+  width: 880px;
+  height:120px;
+  margin-left: 300px;
+  margin-top:60px;
+  clip-path: polygon(
+    0% 0%, 100% 0%, 100% 90%, 95% 95%, 90% 90%, 
+    85% 95%, 80% 90%, 75% 95%, 70% 90%, 65% 95%, 
+    60% 90%, 55% 95%, 50% 90%, 45% 95%, 40% 90%, 
+    35% 95%, 30% 90%, 25% 95%, 20% 90%, 15% 95%, 
+    10% 90%, 5% 95%, 0% 90%
+  );
+ border-top-right-radius: 20px;
+ border-top-left-radius: 20px;
+ padding-left: 0px;
+}
+.int{
+  background-color: white;
+  opacity: 0.6;
+  width: 880px;
+  height:120px;
+  margin-left: 300px;
+  margin-top:60px;
+  clip-path: polygon(
+    0% 0%, 100% 0%, 100% 90%, 95% 95%, 90% 90%, 
+    85% 95%, 80% 90%, 75% 95%, 70% 90%, 65% 95%, 
+    60% 90%, 55% 95%, 50% 90%, 45% 95%, 40% 90%, 
+    35% 95%, 30% 90%, 25% 95%, 20% 90%, 15% 95%, 
+    10% 90%, 5% 95%, 0% 90%
+  );
+ border-top-right-radius: 20px;
+ border-top-left-radius: 20px;
+ padding-left: 0px;
+}
+.cop{
+  text-align: center;
+  color:white;
+  font-size: 40px;
+  font-weight:bold;
+}
+.button {
+  display: flex;
+  gap: 10px; /* Space between buttons */
+  justify-content: center; /* Center the buttons horizontally */
+  align-items: center; /* Align items vertically */
+}
+.you {
+  display: flex;
+  align-items: center;
+  padding: 5px 10px;
+  border: none;
+  background-color: #f1f1f1;
+  cursor: pointer;
+  border-radius: 8px;
+  margin-left: 5px;
+  gap: 10px;
+  text-decoration: none;
+  width: fit-content;  
+}
+
+.yimg {
+  height: 30px;
+  width: 50px;
+}
+
+.you span {
+  font-size: 16px;
+  font-weight: bold;
+  color: #333;
+  font-family: Arial, sans-serif;
+}
+.you:hover {
+  box-shadow: 0 0 12px #ff0000aa, 0 0 18px #ff000088;
+  transform: scale(1.05); /* slight grow effect */
+}
+.mail{
+  color:white;
+  text-decoration: none;
+}
+.mail:hover {
+  box-shadow: 0 0 12px #ff0000aa, 0 0 18px #ff000088;
+  transform: scale(1.05); /* slight grow effect */
+}
+.plat{
+  font-weight: bold;
+  font-size: 30px;
+  padding-left:500px;
+  color: black;
+}
+.mprofile{
+  background-color: white;
+  opacity: 0.6;
+  width: 880px;
+  height:230px;
+  margin-left: 300px;
+  margin-top:60px;
+padding:  10px 20px;
+font-size: 21px;
+border-radius: 40px;
+}
